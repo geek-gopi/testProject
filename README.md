@@ -1,3 +1,3 @@
 # testProject
 Getting started with github
-hello welcome to my repo
+hello welcome to my repository.
